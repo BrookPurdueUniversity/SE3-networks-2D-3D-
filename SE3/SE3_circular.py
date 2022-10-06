@@ -34,7 +34,6 @@ args = easydict.EasyDict({
     'indir_test_files':"./data/test_image/*.png",
     'indir_dataset': "./data",
     'indir_pretrained_weights': "./result/ckpt/latest_model.ckpt",
-    'outdir_pretrained_weights': "./result/trained_weights.txt",
     'outdir_predition': "./result/pred/",
     'H': 256,
     'W':3840,
